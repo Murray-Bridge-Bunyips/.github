@@ -11,3 +11,5 @@ As a club, we continue to thrive together as an interconnected family, taking ea
 
 ***Gracious Professionalism!***  
 — Lucas Bubner, Murray Bridge Bunyips Captain [2022-Current]
+
+![Murray Bridge Bunyips Logo](/bunyipslogo.png)
