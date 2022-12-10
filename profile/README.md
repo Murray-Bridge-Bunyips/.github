@@ -1,5 +1,5 @@
 # Welcome to the Murray Bridge Bunyips! (FTC Teams 15215 and 22407)
-<img src="/bunyipslogos.png" alt="Murray Bridge Bunyips and Murray Bridge Mulyawonks Logos" style="width: auto; height: auto;">
+![Murray Bridge Bunyips and Mulyawonks Logos (15215 + 22407)](/bunyipslogos.png)
 
 *We are a South Australian FTC Team of >10 consistent members competing from the riverside region of Murray Bridge!*  
 
