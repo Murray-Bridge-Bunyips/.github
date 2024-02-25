@@ -4,7 +4,7 @@
 
 *We are a South Australian FIRST Tech Challenge robotics club of >12 consistent members competing from the riverside region of Murray Bridge!*  
 
-Our team includes members through grades 7–11, with weekly hosted meetings. In addition, we often collaborate closely with other FTC teams, such as the RoboRoos and the Popups, and with outreach communities beyond robotics.
+Our team includes members through grades 7–12, with weekly hosted meetings. In addition, we often collaborate closely with other FTC teams, such as the RoboRoos and the Popups, and with outreach communities beyond robotics.
 
 Our club, hosted with venue via Murray Bridge High School, has given members ample opportunities to demonstrate not only their robot fabrication skills but also communication, entrepreneurship, and developing essential non-technical skills as part of an assessable extracurricular program. We're not just a robotics team but a network of future innovators of whom we are proud.
 
