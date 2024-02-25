@@ -1,7 +1,6 @@
-# We are the Murray Bridge Bunyips!
-###### FTC 15215, 22407, 24736
 ![Murray Bridge Bunyips, Mulyawonks, Lizards Logos (15215 + 22407 + 24736)](/bunyipslogos.png)
-
+###### FTC 15215, 22407, 24736
+___
 *We are a South Australian FIRST Tech Challenge robotics club of >12 consistent members competing from the riverside region of Murray Bridge!*  
 
 Our team includes members through grades 7–12, with weekly hosted meetings. In addition, we often collaborate closely with other FTC teams, such as the RoboRoos and the Popups, and with outreach communities beyond robotics.
